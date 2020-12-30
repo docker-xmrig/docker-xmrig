@@ -1,4 +1,4 @@
-# Oracle Database on Docker
+# Docker Alpine XMRig
 Alpine + XMRig : An extreamly tiny image to start mining with XMRig
 
 ## How to build and run
