@@ -26,4 +26,4 @@ RUN set -eux; \
 	;
 
 WORKDIR /opt/src
-COPY --from=builder xmrig /opt/src
+COPY --from=builder /opt/src/xmrig/build/xmrig /opt/src
