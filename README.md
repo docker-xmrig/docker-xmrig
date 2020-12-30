@@ -4,16 +4,16 @@ Alpine + XMRig : An extreamly tiny image to start mining with XMRig
 ## How to build and run
 
 Pull repo:
-`bash
+```bash
 git clone https://github.com/docker-xmrig/docker-xmrig
-`
+```
 
 Build
-`bash
+```bash
 docker build -t xmrig:latest .
-`
+```
 
 Run
-`
+```bash
 docker run xmrig:latest xmig
-`
+```
